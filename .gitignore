@@ -1,0 +1,27 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos de logs
+logs/
+
+# Dataset si no deseas subirlo
+iris.csv
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Otros
+*.log
